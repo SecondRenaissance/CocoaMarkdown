@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Example-iOS" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CocoaMarkdown" TARGET_NAME="Example-iOS" CONFIG_NAME="Debug" SCHEME_NAME="Example-iOS" RUN_TARGET_PROJECT_NAME="CocoaMarkdown" RUN_TARGET_NAME="Example-iOS" MAKE_ACTIVE="TRUE">
+    <envs />
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>
